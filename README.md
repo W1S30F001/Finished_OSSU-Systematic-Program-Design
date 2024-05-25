@@ -1,3 +1,7 @@
+this code is written in Racket, you can run it using drracket software
+
+the complexity and progress in coding increases as the index increases..
+
 this is a dedication to & documentation of my commitment to the OSSU track,
 
 this repo is for my finished assignment of the Systematic Program Design course /Core CS Section
