@@ -1,6 +1,6 @@
-we in /OSSU/Core CS/1. SPD
+/OSSU/Core CS/1. SPD
 
-all projects/exercises here are written in Racket, you can run it using drracket code editor
+all projects/exercises of this course are written in Racket, you can run it using drracket code editor
 
 my personal coolest work is in the [advanced] folder
 
