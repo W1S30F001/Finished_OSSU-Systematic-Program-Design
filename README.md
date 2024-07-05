@@ -1,4 +1,4 @@
-/OSSU/Core CS/1. SPD
+/OSSU/Core CS/1. SPD (How to Code: Simple Data) & (How to Code: Complex Data)
 
 all projects/exercises of this course are written in Racket, you can run it using drracket code editor
 
