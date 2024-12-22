@@ -1,5 +1,6 @@
 # The Whereabouts & The Whys
 /OSSU/Core CS/1. SPD (How to Code: Simple Data) & (How to Code: Complex Data)
+
 dedicated to & a documentation of my commitment to the OSSU track,
 
 ## The Language
